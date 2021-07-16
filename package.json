@@ -1,0 +1,43 @@
+{
+  "_from": "discord-moderator-light",
+  "_id": "discord-moderator-light@1.0.0",
+  "_inBundle": false,
+  "_location": "/discord-moderator-light",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "discord-moderator-light",
+    "name": "discord-moderator-light",
+    "escapedName": "discord-moderator-light",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "author": {
+    "name": "Positive"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js-light": "^3.5.11"
+  },
+  "deprecated": false,
+  "description": "Easily make moderation comamnds for your discord bots",
+  "keywords": [
+    "discord",
+    "discord-mod",
+    "moderator",
+    "discord.js-light"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "discord-moderator-light",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

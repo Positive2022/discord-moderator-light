@@ -1,6 +1,6 @@
 {
   "name": "@positive2022/discord-moderator-light",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make moderation commands easily for your discord bot!",
   "main": "index.js",
   "scripts": {
